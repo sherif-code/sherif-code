@@ -37,9 +37,12 @@ I'm a passionate front-end developer and freelance photographer from Ghana 🇬�
 
 ## 📈 GitHub Stats
 
-![Sherif's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Sherif's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherif-code&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sherif-code&layout=compact&theme=radical)
+
 
 ---
 
