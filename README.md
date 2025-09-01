@@ -8,7 +8,7 @@ I'm a passionate front-end developer and freelance photographer from Ghana 🇬�
 
 ## 🚀 About Me
 
-- 🧠 Currently learning **React**, **JavaScript (ES6+)**, and **DOM manipulation**
+- 🧠 Currently learning **React**, **JavaScript (ES6+)**,**NextJS and **DOM manipulation**
 - 👨🏾‍💻 Building real-world projects to grow my portfolio
 - 🎓 Focused on **self-development** and overcoming challenges like procrastination
 - 🌍 Dreaming of making tech education accessible in Ghana and beyond
